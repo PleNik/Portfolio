@@ -1,0 +1,11 @@
+.vs*
+
+x64*
+
+bin/
+
+lib/
+
+.out*
+
+build*
